@@ -26,7 +26,7 @@ Bu proje, 9. sınıf çocukların Fizik, Kimya ve Biyoloji dallarındaki kelime 
 3. Python 3.x yüklü olduğundan emin ol.
 
 4. Oyunu başlat:
-   python QuickQuiz.py
+   python "Yeni Sayfa Final Projesi vs code 2.py"
    
 
 ## Kullanım ##
