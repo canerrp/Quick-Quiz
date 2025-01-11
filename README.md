@@ -10,6 +10,8 @@ Bu proje, 9. sınıf öğrencilerinin Fizik, Kimya ve Biyoloji alanlarındaki te
 ## Özellikler ##
 
 - 9.sınıf fizik, kimya ve biyoloji konularından oluşan 10 farklı soru soruluyor.
+- Her oyuncunun 3 ipucu 2 pas hakkı verilir. Bu haklar soru başına bir kere kullanılabilir.
+- İpucu alınıp doğru cevap verilen her soruya beş puan, ipucu alınmayıp doğru cevap verilen her soruya on puan verilir.
 - Her oyuncunun tüm soruları cevaplamak için toplam 100 saniyesi vardır.
 - Oyun sonunda her iki oyuncunun puanları hesaplanır ve kazanan belirlenir.
 - Süre dolarsa oyuncu elenir ve "Maalesef süreniz doldu" mesajı görüntülenir.
