@@ -25,10 +25,7 @@ Bu proje, 9. sınıf çocukların Fizik, Kimya ve Biyoloji dallarındaki kelime 
 
 2. Python 3.x yüklü olduğundan emin ol.
 
-3. Oyunu başlat:
-   ```bash
-   python QuickQuiz.py
-   ```
+
 
 ## Kullanım ##
 
