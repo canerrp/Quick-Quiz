@@ -5,7 +5,7 @@ Quick Quiz, Python ile geliştirilmiş, eğlenceli bir bilgi yarışması oyunud
 ## Amaç##
 
 Bu proje, nesne yönelimli programlama (OOP) prensiplerini öğrenmek ve Python dilinde pratik yapmak amacıyla geliştirilmiştir.
-Bu proje, 9. sınıf çocukların Fizik, Kimya ve Biyoloji dallarındaki kelime karmacasının önüne geçmesini hedefler. 
+Bu proje 9.sınıf öğrencilerinin Fizik, Kimya ve Biyoloji alanlarındaki terimleri ezberleme zorluğunu aşmalarına yardımcı olmayı amaçlamaktadır. 
 
 ## Özellikler ##
 
