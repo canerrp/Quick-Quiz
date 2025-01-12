@@ -19,7 +19,7 @@ Bu proje, 9. sınıf öğrencilerinin Fizik, Kimya ve Biyoloji alanlarındaki te
 
 ## Kurulum ##
 
-1. Projeyi klonla: (PowerShell veya herhangi bir terminal penceresi)
+1. Projeyi klonla: (PowerShell veya herhangi bir terminal penceresini yönetici olarak açın)
    git clone https://github.com/canerrp/Quick-Quiz.git
    
    Herhangi bir terminale:
