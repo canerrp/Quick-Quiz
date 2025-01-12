@@ -411,7 +411,7 @@ kategoriler = [
           "cevap": "pH kağıdı",
             "aciklama": "pH kağıdı, çözeltinin asidik veya bazik olduğunu gösteren bir araçtır."},
         {"soru": "Saf su kaç derecede kaynar?",
-          "cevap": "100",
+          "cevap": "yüz",
             "aciklama": "Saf su deniz seviyesinde 100°C'de kaynar."},
         {"soru": "Oksijenin sembolü nedir?",
           "cevap": "O",
