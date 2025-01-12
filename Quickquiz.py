@@ -560,6 +560,7 @@ def quiz_oyunu():
     print(" ..###Her soruya sadece 1 ipucu hakkı vardır.###.. ")
     print(" ..###Süreniz 100 saniyedir.###.. ")
     print(" ..###Normal sorular 10 puan, ipucu kullanılan sorular 5 puan değerindedir.###.. ")
+    print("..### Quick Quizde sayılar yoktur bütün sorular Türkçe karakterlere uygun şekilde cevap verilmelidir.###.. ")
     
     
     #Oyuncu isimleri alınır
