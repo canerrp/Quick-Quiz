@@ -424,12 +424,12 @@ kategoriler = [
             "aciklama": "Sıcaklık termometre cihazı ile ölçülür birkaç çeşidi vardır."}
     ]),
     Kategori("Biyoloji", [ 
-        {"soru": "İnsanın genetik bilgisini taşıyan molekül nedir?",
-          "cevap": "dna",
-            "aciklama": "DNA, genetik bilgiyi taşıyan temel biyolojik moleküldür."},
             {"soru": "İnsanın genetik bilgisini taşıyan molekül nedir?",
           "cevap": "dna",
             "aciklama": "DNA, genetik bilgiyi taşıyan temel biyolojik moleküldür."},
+        {"soru": "Üzerinde ribozom taşıyan Endoplazmik Retikuluma ne denir",
+          "cevap": "granüllü endoplazmik retikulum",
+            "aciklama": "Bu tip endoplazmik retikulumlar protein sentezinde görevlidirler."},
         {"soru": "İhtiyaç duyduğu besinleri kendi üretebilen canlılara ne nedir?",
            "cevap": "Ototrof",
              "aciklama": "Ototrof canlılar zorunda kaldıkça besinlerini kendi üretebilirler."},
