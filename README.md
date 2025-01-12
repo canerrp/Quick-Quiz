@@ -20,14 +20,14 @@ Bu proje, 9. sınıf öğrencilerinin Fizik, Kimya ve Biyoloji alanlarındaki te
 ## Kurulum ##
 
 1. Projeyi klonla: (PowerShell veya herhangi bir terminal penceresini yönetici olarak açın)
-   git clone https://github.com/canerrp/Quick-Quiz.git
+  1.adım git clone https://github.com/canerrp/Quick-Quiz.git
    
    Herhangi bir terminale:
-2. cd Quick-Quiz yaz.
+2.adım cd Quick-Quiz yaz.
    
-3. Python 3.x yüklü olduğundan emin ol.
+3.adım Python 3.x yüklü olduğundan emin ol.
 
-4. Oyunu başlat:
+4.adım Oyunu başlat:
    python "Yeni Sayfa Final Projesi vs code 2.py"
    
 
